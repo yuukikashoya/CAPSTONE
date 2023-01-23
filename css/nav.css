@@ -1,0 +1,14 @@
+.navbutton{
+
+line-height: 20px;
+position: relative;
+display: block;
+padding: 15px;
+text-decoration: none;
+background-color: transparent;
+cursor: pointer;
+box-sizing: border-box;
+font-size: 14px;
+border-color: transparent;
+color: rgba(255, 255, 255, 0.441);
+}
