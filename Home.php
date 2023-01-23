@@ -7,7 +7,7 @@
     <?php
       include 'bootstrap/bootstrap.php';
       include 'design/header.php';
-      include 'design/nav.php';
+
      ?>
 </head>
 <body>
